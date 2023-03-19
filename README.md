@@ -4,4 +4,4 @@
 - Consumo da API [Cat API](https://aws.random.cat/meow)              
 :pushpin: [Aplicação](https://random-pet.vercel.app/)   
 
-<img height="250" src="random-pet-png" alt="Random pet">
+<img height="250" src="random-pet.png" alt="Random pet">
